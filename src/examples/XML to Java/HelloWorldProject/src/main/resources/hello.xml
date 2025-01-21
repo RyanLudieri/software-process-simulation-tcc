@@ -1,0 +1,2 @@
+<!DOCTYPE greeting SYSTEM "hello.dtd">
+<greeting language="English">Hello, World!</greeting>
